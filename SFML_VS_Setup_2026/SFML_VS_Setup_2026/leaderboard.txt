@@ -1,0 +1,12 @@
+KHKFG|SpaceShooter|155|3
+SDBKS|SpaceShooter|40|1
+FAIQ|TicTacToe|2|2
+FAIQ|Pong|1|1
+FAIQ |TicTacToe|1|1
+KALA|TicTacToe|1|1
+MESSI|TicTacToe|1|1
+NLKFDG|Pong|1|1
+FSDKFS|TicTacToe|1|1
+FDFB|Pong|1|1
+HIH\|TicTacToe|1|1
+SDFD|TicTacToe|1|1
